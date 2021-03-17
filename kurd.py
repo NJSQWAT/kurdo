@@ -14,7 +14,7 @@ def chk():
       time.sleep(1)
       pass
     else:
-      print("\x1b[91mBarezm Id kat active nya Tkaya bo Active krdn nama bnera bo telegram @ravo_m.......")
+      print("\x1b[91mBarezm Id kat active nya Tkaya bo Active krdn nama bnera bo telegram @kurdomafea.......")
       time.sleep(1)
       sys.exit()
   except:
